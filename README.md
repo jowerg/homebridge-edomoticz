@@ -3,6 +3,10 @@ A fully-fledged up-to-date Homebridge-Plugin
 for use with [Homebridge](https://github.com/nfarina/homebridge) v0.2.1+
 and [Domoticz](https://github.com/domoticz/domoticz)
 
+##Garage Door Opener BARRIER SUPPORT:
+Linear GD00Z-4 Garage door opener support. Use with Domoticz patch for BARRIER CLASS support (see https://github.com/jowerg/domoticz )
+
+
 ##Supports:
 ###Standard HomeKit Types:
 - Sockets (on/off) - Domoticz SwitchTypeVal: 0
