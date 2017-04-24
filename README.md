@@ -5,6 +5,7 @@ and [Domoticz](https://github.com/domoticz/domoticz)
 
 ##Garage Door Opener BARRIER SUPPORT:
 Linear GD00Z-4 Garage door opener support. Use with Domoticz patch for BARRIER CLASS support (see https://github.com/jowerg/domoticz )
+This plugin currently searches for the word "Garage" on your Domoticz device name. 
 
 
 ##Supports:
